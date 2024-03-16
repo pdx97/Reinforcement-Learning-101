@@ -13,7 +13,7 @@ Reinforcement Learning is a type of Machine Learning where an agent learns to ma
 - **Code Examples**: Hands-on examples demonstrating various RL algorithms and techniques.
 - **Learning Resources**: Curated list of resources like books, courses, and articles that have helped me learn RL.
 - **Challenges & Solutions**: Interesting challenges I've encountered and how I approached solving them.
-- **My Research Contributions**: Research Contributions i have done in this field you can find that under the Research Papers folder
+- **My Research Contributions**: Research Contributions I have done in this field you can find that under the Research Papers folder
 
 
 
